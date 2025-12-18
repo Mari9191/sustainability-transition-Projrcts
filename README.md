@@ -1,13 +1,12 @@
 # Sustainability, Energy & Decision-Making Projects
-Academic and applied projects on sustainability, Transition, energy systems, data analytics, and decision-making.
 
-This repository is a curated **portfolio** of academic and applied projects focused on **sustainability**, **energy systems**, **energy Transition**, **data analytics**, and **decision-making**.
+Academic and applied projects focused on **sustainability**, **energy transition**, **energy systems**, **data analytics**, and **decision-making**.
 
-The projects collected here reflect a system-level approach to complex socio-technical challenges, combining quantitative analysis, data-driven methods, and structured decision frameworks to support sustainable and informed solutions.
+This repository is a curated **portfolio** addressing complex socio-technical challenges through **system-level thinking**, **data-driven analysis**, and **structured decision-making frameworks** to support sustainable and informed solutions.
 
 ---
 
-##  Scope & Focus Areas
+## 🎯 Scope & Focus Areas
 
 The projects address real-world challenges at the intersection of technology, environment, and society, with a particular focus on:
 
@@ -20,17 +19,30 @@ The projects address real-world challenges at the intersection of technology, en
 
 ---
 
-## 📂 Repository Structure
+## 📂 Projects Overview
 
-Each folder in this repository corresponds to a **distinct project**.  
-Projects may include reports, presentations, datasets, notebooks, or design artifacts, depending on their nature.
+### 🔹 Positive Energy District – Urban Regeneration
+Urban-scale sustainability project focused on **Positive Energy Districts (PEDs)**, integrating energy strategies, stakeholder analysis, and urban regeneration planning.
 
-- Positive Energy District – Urban Regeneration
-Urban-scale sustainability project focused on positive energy districts, stakeholder analysis, and energy-efficient public spaces.
-- Post-Carbon Sustainable Communities – Decision Making
-System-level sustainability project applying MCDA/AHP and scenario-based decision-making for post-carbon community development.
-- IoT-Based Smart Home Energy Efficiency
-Conceptual IoT project exploring smart home systems for energy efficiency, carbon reduction, and sustainable living.
+📁 `positive-energy-district-urban-regeneration/`
+
+---
+
+### 🔹 Post-Carbon Sustainable Communities – Decision Making
+System-level sustainability project applying **MCDA/AHP** and scenario-based evaluation to support post-carbon community development.
+
+📁 `post-carbon-sustainable-communities-decision-making/`
+
+---
+
+### 🔹 Smart HVAC System – IoT-Based Energy Efficiency
+IoT-driven smart building project addressing **energy efficiency in residential HVAC systems**, combining sensor-based monitoring, system architecture design, and sustainability reasoning.
+
+📁 `iot-based-smart-home-energy-efficiency/`
+
+---
+
+## 📁 Repository Structure
 
 ```text
 sustainability-analytics-projects/
@@ -39,13 +51,13 @@ sustainability-analytics-projects/
 │
 ├── positive-energy-district-urban-regeneration/
 │   ├── README.md
-│   └── GROUP_D_PORTFOLIO_BIP_PED_2023.pdf
+│   └── Positive_Energy_District_Urban_Regeneration.pdf
 │
 ├── post-carbon-sustainable-communities-decision-making/
 │   ├── README.md
-│   └── GROUP04_PORTFOLIO.pdf
+│   └── Post_Carbon_Sustainable_Communities_Decision_Making.pdf
 │
 └── iot-based-smart-home-energy-efficiency/
     ├── README.md
-    └── IoT Challenge.pdf
-
+    ├── Smart_HVAC_System_IoT_Energy_Efficiency.pdf
+    └── Smart_HVAC_System_Architecture_and_Business_Model.pdf
