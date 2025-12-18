@@ -6,7 +6,7 @@ The focus is on smart home systems that combine sensors, basic automation logic,
 
 ---
 
-## 📌 Project Context
+##  Project Context
 
 Residential buildings play a significant role in overall energy consumption and carbon emissions.  
 Smart home solutions enabled by IoT technologies offer an opportunity to monitor usage patterns, automate energy control, and increase user awareness.
@@ -55,13 +55,15 @@ The emphasis is on **system-level thinking**, not low-level hardware design.
 
 ---
 
-## 📄 Project Output
+## 📄 Project Outputs
 
-- **Smart HVAC IoT Energy Efficiency**  
-  `Smart_HVAC_System_IoT_Energy_Efficiency.pdf`
+- **Smart HVAC System – IoT Energy Efficiency**  
+  `Smart_HVAC_System_IoT_Energy_Efficiency.pdf`  
+  (Problem framing, system concept, sustainability analysis)
 
 - **System Architecture & Business Model**  
-  `Smart_HVAC_System_Architecture_and_Business_Model.pdf`
+  `Smart_HVAC_System_Architecture_and_Business_Model.pdf`  
+  (Technical architecture, features, market and value proposition)
 
 
 ---
@@ -81,7 +83,7 @@ This project was developed as part of an academic IoT challenge focused on susta
 
 ---
 
-## 👤 Author
+##  Author
 
 **Marzieh Mirzaei**  
 Smart Systems & Sustainability Analysis  
@@ -89,7 +91,7 @@ Smart Systems & Sustainability Analysis
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This project is intended for **educational and portfolio purposes**  
 - The focus is on **conceptual design and sustainability reasoning**, not production-ready IoT deployment  
