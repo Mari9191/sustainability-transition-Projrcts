@@ -6,7 +6,7 @@ This repository is a curated **portfolio** addressing complex socio-technical ch
 
 ---
 
-## 🎯 Scope & Focus Areas
+##  Scope & Focus Areas
 
 The projects address real-world challenges at the intersection of technology, environment, and society, with a particular focus on:
 
@@ -21,21 +21,21 @@ The projects address real-world challenges at the intersection of technology, en
 
 ## 📂 Projects Overview
 
-### 🔹 Positive Energy District – Urban Regeneration
+###  Positive Energy District – Urban Regeneration
 Urban-scale sustainability project focused on **Positive Energy Districts (PEDs)**, integrating energy strategies, stakeholder analysis, and urban regeneration planning.
 
 📁 `positive-energy-district-urban-regeneration/`
 
 ---
 
-### 🔹 Post-Carbon Sustainable Communities – Decision Making
+###  Post-Carbon Sustainable Communities – Decision Making
 System-level sustainability project applying **MCDA/AHP** and scenario-based evaluation to support post-carbon community development.
 
 📁 `post-carbon-sustainable-communities-decision-making/`
 
 ---
 
-### 🔹 Smart HVAC System – IoT-Based Energy Efficiency
+###  Smart HVAC System – IoT-Based Energy Efficiency
 IoT-driven smart building project addressing **energy efficiency in residential HVAC systems**, combining sensor-based monitoring, system architecture design, and sustainability reasoning.
 
 📁 `iot-based-smart-home-energy-efficiency/`
